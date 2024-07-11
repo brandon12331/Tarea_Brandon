@@ -1,0 +1,83 @@
+ <table>           <tr style='color:White;background-color:#5D7B9D;font-size:Medium;font-weight:bold;'><td></td><td align='right'></td><td align='right'>Tipos de cambio anunciados en ventanilla por los intermediarios cambiarios<br><br>En colones costarricenses por dólar de los Estados Unidos de América.<br>miércoles, 10 de julio de 2024 </td> <td></td><td></td><td></td></tr>   </table> <table title="Resultado de la consulta" cellspacing="0" cellpadding="0" align="Left" rules="all" bordercolor="SteelBlue" id="DG" style="background-color:White;border-color:SteelBlue;border-width:0px;border-style:None;font-family:Arial;font-size:XX-Small;height:539px;width:734px;border-collapse:collapse;">
+	<tr class="TituloTabla" align="center" style="background-color:#0C365E;">
+		<td style="width:40mm;">Tipo de Entidad</td><td style="width:110mm;">Entidad Autorizada</td><td style="width:2cm;">Compra</td><td style="width:2cm;">Venta</td><td style="width:2cm;">Diferencial Cambiario</td><td style="width:8cm;">Última Actualización</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left">Bancos públicos</td><td align="left">Banco de Costa Rica                                                   </td><td align="right">519,00</td><td align="right">533,00</td><td align="right">14,00</td><td>10/07/2024    12:06 a.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left">&nbsp;</td><td align="left">Banco Nacional de Costa Rica                                          </td><td align="right">519,50</td><td align="right">533,00</td><td align="right">13,50</td><td>09/07/2024    12:43 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco Popular y de Desarrollo Comunal                                 </td><td align="right">520,00</td><td align="right">534,00</td><td align="right">14,00</td><td>09/07/2024    12:54 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left">Bancos privados</td><td align="left">Banco BAC San José S.A.                                               </td><td align="right">518,00</td><td align="right">532,00</td><td align="right">14,00</td><td>09/07/2024    12:55 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left">&nbsp;</td><td align="left">Banco BCT S.A.                                                        </td><td align="right">515,00</td><td align="right">533,00</td><td align="right">18,00</td><td>09/07/2024    05:50 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco Cathay de Costa Rica S.A.                                       </td><td align="right">518,00</td><td align="right">536,00</td><td align="right">18,00</td><td>09/07/2024    12:41 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco CMB                                                             </td><td align="right">514,00</td><td align="right">538,00</td><td align="right">24,00</td><td>09/07/2024    10:22 a.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco Davivienda (Costa Rica) S.A                                     </td><td align="right">515,00</td><td align="right">533,00</td><td align="right">18,00</td><td>09/07/2024    04:18 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco General (Costa Rica) S.A.                                       </td><td align="right">517,00</td><td align="right">532,00</td><td align="right">15,00</td><td>09/07/2024    11:59 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco Improsa S.A.                                                    </td><td align="right">516,00</td><td align="right">534,00</td><td align="right">18,00</td><td>09/07/2024    01:24 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco Lafise S.A.                                                     </td><td align="right">516,00</td><td align="right">534,00</td><td align="right">18,00</td><td>09/07/2024    03:33 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco Promérica S.A.                                                  </td><td align="right">515,00</td><td align="right">533,00</td><td align="right">18,00</td><td>09/07/2024    05:09 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Banco Scotiabank de Costa Rica S.A.                                   </td><td align="right">515,00</td><td align="right">533,00</td><td align="right">18,00</td><td>09/07/2024    01:51 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Prival Bank (Costa Rica) S.A                                          </td><td align="right">518,00</td><td align="right">535,00</td><td align="right">17,00</td><td>09/07/2024    01:06 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left">Financieras</td><td align="left">Financiera Cafsa S.A.                                                 </td><td align="right">518,00</td><td align="right">534,00</td><td align="right">16,00</td><td>09/07/2024    09:27 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left">&nbsp;</td><td align="left">Financiera Comeca S.A.                                                </td><td align="right">516,00</td><td align="right">538,00</td><td align="right">22,00</td><td>09/07/2024    12:03 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Financiera Desyfin S.A.                                               </td><td align="right">518,00</td><td align="right">536,00</td><td align="right">18,00</td><td>09/07/2024    12:57 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Financiera MultiMoney S.A.                                            </td><td align="right">520,00</td><td align="right">531,00</td><td align="right">11,00</td><td>09/07/2024    01:36 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left">Mutuales de Vivienda</td><td align="left">Grupo Mutual Alajuela - La Vivienda de Ahorro y Préstamo              </td><td align="right">521,00</td><td align="right">533,00</td><td align="right">12,00</td><td>09/07/2024    02:40 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left">&nbsp;</td><td align="left">Mutual Cartago de Ahorro y Préstamo                                   </td><td align="right">520,00</td><td align="right">532,00</td><td align="right">12,00</td><td>09/07/2024    01:50 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left">Cooperativas</td><td align="left">Coope-ANDE N°1 R.L.                                                   </td><td align="right">523,00</td><td align="right">537,50</td><td align="right">14,50</td><td>09/07/2024    12:16 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left">&nbsp;</td><td align="left">Coopecaja R.L.                                                        </td><td align="right">519,50</td><td align="right">533,00</td><td align="right">13,50</td><td>09/07/2024    05:11 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Coopemep R.L.                                                         </td><td align="right">519,50</td><td align="right">533,00</td><td align="right">13,50</td><td>09/07/2024    01:42 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Cooperativa  COOCIQUE R.L.                                            </td><td align="right">523,00</td><td align="right">536,00</td><td align="right">13,00</td><td>10/07/2024    12:29 a.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Cooperativa Coopealianza R.L.                                         </td><td align="right">519,00</td><td align="right">535,00</td><td align="right">16,00</td><td>09/07/2024    02:19 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Cooperativa CREDECOOP R.L.                                            </td><td align="right">522,00</td><td align="right">540,00</td><td align="right">18,00</td><td>08/07/2024    12:00 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Cooperativa Nacional de Educadores R.L. (COOPENAE)                    </td><td align="right">520,00</td><td align="right">533,00</td><td align="right">13,00</td><td>09/07/2024    05:11 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Cooperativa San Marcos R.L.                                           </td><td align="right">523,00</td><td align="right">536,00</td><td align="right">13,00</td><td>05/07/2024    10:56 a.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Coopeservidores R.L.                                                  </td><td align="right">520,00</td><td align="right">533,00</td><td align="right">13,00</td><td>26/06/2024    03:01 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left">Casas de Cambio</td><td align="left">Airpak Casa de Cambio                                                 </td><td align="right">525,00</td><td align="right">545,00</td><td align="right">20,00</td><td>09/07/2024    12:50 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left">&nbsp;</td><td align="left">ARI Casa de Cambio Internacional S.A.                                 </td><td align="right">523,11</td><td align="right">528,04</td><td align="right">4,93</td><td>09/07/2024    02:19 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Casa de Cambio Global Exchange                                        </td><td align="right">441,94</td><td align="right">613,77</td><td align="right">171,83</td><td>09/07/2024    09:09 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Casa de Cambio Teledolar S. A.                                        </td><td align="right">520,00</td><td align="right">542,00</td><td align="right">22,00</td><td>10/07/2024    12:45 a.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left">Puestos de Bolsa</td><td align="left">BCT Valores, Puesto De Bolsa, S.A.                                    </td><td align="right">517,00</td><td align="right">535,00</td><td align="right">18,00</td><td>09/07/2024    01:06 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left">&nbsp;</td><td align="left">BN Valores S.A., Puesto de Bolsa                                      </td><td align="right">519,50</td><td align="right">533,00</td><td align="right">13,50</td><td>09/07/2024    12:57 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Mercado Valores de Costa Rica Puesto de Bolsa                         </td><td align="right">520,50</td><td align="right">538,00</td><td align="right">17,50</td><td>09/07/2024    09:48 a.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:White;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">PB Inversiones SAMA                                                   </td><td align="right">518,00</td><td align="right">534,00</td><td align="right">16,00</td><td>09/07/2024    01:47 p.m.</td>
+	</tr><tr align="right" style="color:Black;background-color:#DFEDFF;font-family:Arial;font-size:10pt;">
+		<td align="left" style="color:White;">&nbsp;</td><td align="left">Popular Valores, Puesto de Bolsa                                      </td><td align="right">522,00</td><td align="right">536,00</td><td align="right">14,00</td><td>05/07/2024    09:26 a.m.</td>
+	</tr><tr align="left" style="color:#000066;background-color:White;font-size:XX-Small;">
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr>
+</table>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Consulta Tipo de Cambio</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <h1>Consulta de Tipo de Cambio</h1>
+        <form action="/" method="POST">
+            <label for="fecha">Seleccione una fecha:</label>
+            <input type="date" id="fecha" name="fecha" required>
+            <button type="submit">Consultar</button>
+        </form>
+        {% if exchange_rate and selected_date %}
+        <div class="result">
+            <p>Fecha: {{ selected_date }}</p>
+            <p>Tipo de cambio de compra: {{ exchange_rate.compra }}</p>
+            <p>Tipo de cambio de venta: {{ exchange_rate.venta }}</p>
+        </div>
+        {% endif %}
+        {% if messages %}
+            <div class="messages">
+                {% for category, message in messages %}
+                    <p class="{{ category }}">{{ message }}</p>
+                {% endfor %}
+            </div>
+        {% endif %}
+    </div>
+    <footer>
+        <p>Brandon Andino López - 2024</p>
+    </footer>
+</body>
+</html>
